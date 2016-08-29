@@ -1,2 +1,1 @@
-# Welcome to Jekyll!
-## Your page is now available at the link above.
+#Thank you for using Jekyll.Pizza!
